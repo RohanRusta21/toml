@@ -1,0 +1,10 @@
+# Ignore environment configuration files
+iot-config-tool/src/environments/accountConfig.json
+
+# Ignore SAM configuration files
+cloudrail-base-resources/samconfig.toml
+cloudrail-serverless/samconfig.toml
+cloudrail-lambda-edge/samconfig.toml
+
+# Ignore script configuration file
+scripts/config.js
